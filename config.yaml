@@ -1,6 +1,6 @@
-baseURL: "https://example.com"
+baseURL: "https://nova.mdsub.tk"
 languageCode: "en-us"
-title: "Hugo Novela"
+title: "MDsub"
 pygmentsstyle: 'monokai'
 metaDataFormat: yaml
 
