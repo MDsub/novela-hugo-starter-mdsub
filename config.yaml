@@ -9,7 +9,7 @@ metaDataFormat: yaml
 module:
   imports:
     - path: "github.com/forestryio/hugo-theme-novela"
-paginate: 6
+paginate: 100
 social:
   twitter: "#"
   github: "#"
